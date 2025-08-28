@@ -1,0 +1,164 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "What's up"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Nice chatting to you, bye",
+        "Till next time"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "admission",
+      "patterns": [
+        "How to apply for admission?",
+        "What is the admission process?",
+        "Tell me about admission",
+        "How can I get admission?",
+        "What are admission requirements?",
+        "How to join your college?"
+      ],
+      "responses": [
+        "For admission, you need to fill out the application form available on our website. Submit it with required documents before the deadline.",
+        "Admission process includes filling the application form, document verification, and merit-based selection.",
+        "You can apply for admission through our online portal. Check the admission section on our website for detailed requirements."
+      ]
+    },
+    {
+      "tag": "fees",
+      "patterns": [
+        "What is the fee structure?",
+        "How much are the fees?",
+        "Tell me about fees",
+        "What do I need to pay?",
+        "Fee details",
+        "Cost of education"
+      ],
+      "responses": [
+        "Fee structure varies by course. Please check our website or contact the admission office for detailed fee information.",
+        "The fees depend on the program you choose. You can find the complete fee structure on our official website.",
+        "For fee details, please visit the fees section on our website or contact our admission office."
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "What courses do you offer?",
+        "Tell me about your programs",
+        "Available courses",
+        "What can I study here?",
+        "List of courses",
+        "Academic programs"
+      ],
+      "responses": [
+        "We offer various undergraduate and postgraduate programs in Engineering, Computer Science, Management, and more.",
+        "Our courses include B.Tech, M.Tech, MBA, BCA, MCA, and several other programs. Check our website for the complete list.",
+        "We have a wide range of courses across different disciplines. Visit our academics section for detailed information."
+      ]
+    },
+    {
+      "tag": "scholarship",
+      "patterns": [
+        "Do you offer scholarships?",
+        "Tell me about scholarships",
+        "Financial aid available?",
+        "How to get scholarship?",
+        "Merit scholarship",
+        "Fee concession"
+      ],
+      "responses": [
+        "Yes, we offer merit-based scholarships and financial aid for deserving students. Check our scholarship policy for details.",
+        "Scholarships are available based on academic performance and financial need. Apply through our scholarship portal.",
+        "We have various scholarship programs. Visit the financial aid section on our website for complete information."
+      ]
+    },
+    {
+      "tag": "campus",
+      "patterns": [
+        "Tell me about your campus",
+        "Campus facilities",
+        "What facilities do you have?",
+        "Campus life",
+        "Infrastructure",
+        "Hostels available?"
+      ],
+      "responses": [
+        "Our campus has modern facilities including well-equipped labs, library, sports complex, hostels, and cafeteria.",
+        "We have a beautiful campus with all necessary facilities for students including accommodation, dining, and recreational activities.",
+        "Campus facilities include computer labs, library, sports facilities, student hostels, and various clubs for extracurricular activities."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How to contact you?",
+        "Contact information",
+        "Phone number",
+        "Email address",
+        "How to reach you?",
+        "Office address"
+      ],
+      "responses": [
+        "You can contact us through our website, email, or phone. Visit the contact us page for detailed information.",
+        "Our contact details are available on the website. You can also visit our campus during office hours.",
+        "For any queries, feel free to contact our admission office. All contact details are on our official website."
+      ]
+    },
+    {
+      "tag": "placement",
+      "patterns": [
+        "What about placements?",
+        "Job opportunities",
+        "Placement statistics",
+        "Career prospects",
+        "Companies visiting",
+        "Employment after graduation"
+      ],
+      "responses": [
+        "We have excellent placement records with top companies visiting our campus regularly for recruitment.",
+        "Our placement cell works actively to provide job opportunities. Many reputed companies recruit from our college.",
+        "Placement support includes training, career counseling, and connecting students with leading employers in the industry."
+      ]
+    }
+  ]
+}
